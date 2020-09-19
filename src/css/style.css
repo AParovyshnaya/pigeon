@@ -35,3 +35,7 @@
   .background {
     background-color: #FFFFFF;
   }
+
+  input, button {
+    outline:none
+  }
